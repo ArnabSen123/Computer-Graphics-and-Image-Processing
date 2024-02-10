@@ -5,6 +5,7 @@ pk = (2 * dx) - dy
 
 if pk<0
     pk = pk + (2 * dx)
+
 else
     x = x + 1
     pk = pk + (2 * dx) - (2 * dy)

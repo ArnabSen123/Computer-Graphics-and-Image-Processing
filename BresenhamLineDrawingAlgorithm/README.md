@@ -4,11 +4,11 @@ Also the Equation has been adjusted.
 pk = (2 * dx) - dy
 
 if pk<0
-    pk = pk + (2 * dx)
+    (pk = pk + (2 * dx))
 
 else
-    x = x + 1
-    pk = pk + (2 * dx) - (2 * dy)
+    (x = x + 1),
+    (pk = pk + (2 * dx) - (2 * dy))
 
 Output:
 For 0<m<1:
